@@ -1,11 +1,11 @@
 
-# Bienvenue sur le profil Github de Adrien Pâris 👋
+# Bienvenue sur le profil Github d'Adrien Pâris 👋
 
-## Une petite présentation s'impose :) 
+## Une petite présentation s'impose 😉
 
-Ancien marketeux et commercial, aujoud'hui, je tente ma chance dans l'univers du dévellopement Web
+Ancien marketeur et commercial, aujourd'hui, je tente ma chance dans l'univers du développement Web. Je viens tout juste de terminer la formation Concepteur Développeur d'Applications chez O'clock, et suis fortement motivé pour appliquer l'ensemble des connaissances que j'ai accumulé ces derniers mois :muscle:
 
-## En recherche de stage pour Début 2026
+## 👉 En recherche d'un stage de développeur web front ou back pour début 2026 👀
 
 ## Compétences 
 
@@ -22,7 +22,7 @@ Ancien marketeux et commercial, aujoud'hui, je tente ma chance dans l'univers du
 |:--------: |:--------:| :--------:| 
 <img src="icons8-web-64.png" alt="">                |<img src="icons8-linkedin-48.png" alt="">                                      | <img src="icons8-cv-40.png" alt="">
 <a href="" target="_blank">Découvrir</a>                 |<a href="https://www.linkedin.com/in/adrien-paris-dev/" target="_blank">Voir</a>                                            |<a href="CV 2025 Adrien Paris Dev.pdf" target="_blank">Voir</a>
-Découvrez mes projets, même ceux privés sur Github       |Un parcours atypique mais qui vous donnera matière a entamer la conversation   |Un CV rien de particulier à dire ...
+Découvrez mes projets, même ceux privés sur Github       |Un parcours atypique mais qui vous donnera matière a entamer la conversation 😁  |J'ai fait un effort sur la présentation 😉 
                     
 <p id="ref-icon8">* Les logos et images proviennent du site <a href="https://icons8.com/icons" target="_blank">Icons8</a></p>
 
