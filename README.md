@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<main style="display: flex; flex-direction: column; align-items: center; text-align: center;>
+<main style="display: flex; flex-direction: column; align-items: center; text-align: center">
     <section id="header">
         <h1>Bienvenue sur le profil Github de Adrien Pâris 👋</h1>
     </section>
