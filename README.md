@@ -36,7 +36,6 @@ Here are some ideas to get you started:
         <h2>Une petite présentation s'impose :)</h2>
         <p>Ancien marketeux et commercial, aujoud'hui, je tente ma chance dans l'univers du dévellopement Web</p>
     </section>
-
     <section id="looking-for">
         <h2>En recherche d'un stage de 2 à 6 mois à partir de janvier 2026</h2>
     </section>
