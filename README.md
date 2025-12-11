@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Bienvenue sur le profil Github de Adrien Pâris 👋
+
 <main>
     <section id="header">
         <h1>Bienvenue sur le profil Github de Adrien Pâris 👋</h1>
