@@ -32,7 +32,6 @@ Here are some ideas to get you started:
     <section id="header">
         <h1>Bienvenue sur le profil Github de Adrien Pâris 👋</h1>
     </section>
-
     <section id="intro">
         <h2>Une petite présentation s'impose :)</h2>
         <p>Ancien marketeux et commercial, aujoud'hui, je tente ma chance dans l'univers du dévellopement Web</p>
