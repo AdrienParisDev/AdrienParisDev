@@ -1,4 +1,14 @@
-## Hi there 👋
+## Bienvenue sur le profil Github de Adrien Pâris 👋
+
+### Une petite présentation s'impose :) 
+
+Ancien marketeux et commercial, aujoud'hui, je tente ma chance dans l'univers du dévellopement Wed 
+
+### En recherche de stage pour Début 2026
+
+### Compétences 
+
+### 
 
 <!--
 **AdrienParisDev/AdrienParisDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
