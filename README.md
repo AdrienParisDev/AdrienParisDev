@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<main style="display: flex; flex-direction: column; align-items: center; text-align: center">
-    <section id="header">
+    <section id="header " style="background: rgba(198, 57, 240, 0.15); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(7.8px); -webkit-backdrop-filter: blur(7.8px); border: 1px solid rgba(198, 57, 240, 0.28);">
         <h1>Bienvenue sur le profil Github de Adrien Pâris 👋</h1>
     </section>
     <section id="intro">
@@ -90,7 +89,8 @@ Here are some ideas to get you started:
         </div>
     </section>
     <p id="ref-icon8">* Les logos est images proviennent dus site <a href="" target="_blank">Icons8</a></p>
-</main>
+
+
 <style>
     main {
         display: flex;
